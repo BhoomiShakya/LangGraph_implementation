@@ -1,0 +1,25 @@
+# Ignore virtual environment files
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Ignore environment variables and credentials
+.env
+*.env
